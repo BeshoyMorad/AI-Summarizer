@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradiant {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  pointer-events: none;
+  opacity: 0.4;
+  @apply bg-gradient-to-br from-indigo-200 via-red-200 to-yellow-100;
+}
+
+@media screen and (max-width: 640px) {
+  .gradiant {
+    padding: 0;
+  }
+}
+
+/* Tailwind CSS */
+.app {
+  @apply relative z-10 flex justify-center items-center flex-col max-w-7xl mx-auto sm:px-16 px-6;
+}
