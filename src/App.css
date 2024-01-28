@@ -21,3 +21,15 @@
 .app {
   @apply relative z-10 flex justify-center items-center flex-col max-w-7xl mx-auto sm:px-16 px-6;
 }
+
+.black-btn {
+  @apply bg-black border border-black rounded-full py-1 px-2 text-sm text-white transition-all hover:bg-white hover:text-black;
+}
+
+.head-text {
+  @apply text-black text-2xl font-extrabold text-center leading-[1.15] sm:text-4xl;
+}
+
+.desc {
+  @apply mt-5 text-gray-600 text-center text-sm sm:text-lg max-w-2xl;
+}
