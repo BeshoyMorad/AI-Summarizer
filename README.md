@@ -10,7 +10,7 @@
 
 ## 📖 About <a name = "about"></a>
 
-**AI Summarizer** is a dynamic and innovative platform that can summarize any kind of article with just one click using the powerful OpenAI model. Built using **React.js**
+**AI Summarizer** is a dynamic and innovative platform that can summarize any kind of article with just one click using the powerful OpenAI model. Built using **React.js and RapidAPI**
 
 ## 💻 Built Using <a name = "tech"></a>
 
