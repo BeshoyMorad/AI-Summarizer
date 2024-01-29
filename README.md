@@ -34,13 +34,19 @@
 
 ### _🏠 Home page_
 
+![homepage](https://github.com/BeshoyMorad/AI-Summarizer/assets/82404564/d16f4c8c-521e-4aa6-a993-e3c3da698603)
+
 ---
 
 ### _💡 Summaries_
 
+![summaries](https://github.com/BeshoyMorad/AI-Summarizer/assets/82404564/0e114b7d-5e2f-4ea3-a305-083f34ee2f2d)
+
 ---
 
 ### _🖥️ Processing_
+
+![processing](https://github.com/BeshoyMorad/AI-Summarizer/assets/82404564/4c747abb-1bed-4533-9265-896890351fcf)
 
 ---
 
